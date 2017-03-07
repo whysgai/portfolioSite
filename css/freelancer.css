@@ -503,3 +503,9 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+#aboutMeLink{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
